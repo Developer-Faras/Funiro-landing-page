@@ -1,7 +1,7 @@
 ![Screenshot](./images/readme/screenshot.jpg)
 
 <br />
-<h1 style="text-align:center; border: none;">Sass Landing Page</h1>
+<h1 style="text-align:center; border: none;">Funiro Landing Page</h1>
 
 <br />
 
